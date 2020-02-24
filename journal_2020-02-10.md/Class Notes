@@ -1,0 +1,24 @@
+Notes: 2.10.20
+
+.md= markdown
+.html= hypertext markdown link
+
+Why Plain text?
+Reasons: lightweight, cross platform, transformable, greater accessibility
+
+What is markdown?
+Defined as: simplified symbolic formatting for plain text
+
+What is markup?
+Defined as: a language for describing content in a text file, mainly for the purpose of presentation on the web
+
+<p>paragraph</p>
+< > = endling/closing tags
+p = element
+
+<a href="http://geneseo.edu">Geneseo</a>
+<a= link 
+
+What is css?
+= Cascading style sheets
+defined as: a language for assigning styling to markup 
